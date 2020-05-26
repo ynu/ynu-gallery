@@ -1,20 +1,20 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Theme Gallery",
+    title: "Photo Gallery of YNU",
     description: "",
-    author: "epilande",
+    author: "liudonghua123",
     social: [
       {
         name: "Source",
-        url: "https://github.com/epilande/gatsby-theme-gallery",
+        url: "https://github.com/ynu/ynu-gallery",
       },
       {
-        name: "Twitter",
-        url: "https://twitter.com/_epilande",
+        name: "YNU",
+        url: "https://www.ynu.edu.cn/",
       },
       {
         name: "GitHub",
-        url: "https://github.com/epilande",
+        url: "https://github.com/ynu",
       },
     ],
   },

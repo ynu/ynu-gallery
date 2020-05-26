@@ -1,8 +1,8 @@
 {
-  "name": "demo",
+  "name": "sites",
   "private": true,
   "version": "1.0.0",
-  "description": "Demo for gatsby-theme-gallery",
+  "description": "Photo Gallery of YNU",
   "scripts": {
     "dev": "gatsby develop",
     "build": "gatsby build",
@@ -19,6 +19,6 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
-  "author": "Emmanuel Pilande",
+  "author": "Liudonghua",
   "license": "MIT"
 }
